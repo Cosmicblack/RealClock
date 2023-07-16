@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
+  user-select: none;
   background: #272727;
   background-image: url(realmeow.jpg);
   background-position: center;
